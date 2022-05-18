@@ -1,0 +1,16 @@
+{
+  "name": "module3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Module3"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://moin909.github.io/Module3",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
